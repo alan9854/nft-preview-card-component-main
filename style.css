@@ -21,6 +21,7 @@ body {
   align-items: center;
   color: var(--Soft-blue);
   min-height: 100vh;
+  font-family: "Outfit", sans-serif;
 }
 
 .card {
@@ -75,6 +76,7 @@ h2:hover {
 
 .ETH {
   color: var(--Cyan);
+  font-weight: bold;
 }
 
 .create_name {
